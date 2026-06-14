@@ -1,0 +1,3 @@
+Ecosistema Curso Gestión de Riesgos Naturales Aplicada a Empresas Privadas
+Versión: v01
+Uso: Prototipo modular para GitHub Pages
