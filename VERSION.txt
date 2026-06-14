@@ -1,3 +1,2 @@
-Ecosistema Curso Gestión de Riesgos Naturales Aplicada a Empresas Privadas
-Versión: v02_mapas
-Novedad: Laboratorio SIG con mapas base, KML/ALOHA, mediciones, exportación KML/GeoJSON y repositorio cartográfico.
+Ecosistema Curso Riesgos v05 - standalone real
+Cada HTML contiene estilos/JS internos para evitar fallos de carga en previsualizadores.
