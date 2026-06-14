@@ -1,33 +1,24 @@
-# Ecosistema Curso Riesgos v01
+# Ecosistema Curso Riesgos v02_mapas
 
-Paquete completo para GitHub Pages.
+Paquete completo para GitHub Pages con laboratorio SIG.
 
-## Páginas incluidas
+## Novedades v02
 
-- index.html
-- solicitud-acceso.html
-- aula.html
-- pizarra.html
-- laboratorio.html
-- modulos.html
-- herramientas.html
-- evaluacion.html
-- dashboard.html
-- consulta-gpt.html
-- perfil-servicios.html
-- admin.html
-- certificados.html
-- repositorio.html
+- Laboratorio de escenarios sobre mapas base.
+- Capas base accesibles: OSM, topográfico, satélite y terreno.
+- Herramientas para ubicar empresa, amenazas, exposición, vulnerabilidad, capacidad y NaTech.
+- Medición de distancias, áreas y buffers.
+- Importación de KML/KML de ALOHA.
+- Exportación de KML y GeoJSON.
+- Repositorio cartográfico con plantillas KML, GeoJSON demo y enlaces a ArcGIS Online.
+- Productos editables: ficha e informe técnico preliminar.
 
 ## Publicación en GitHub Pages
 
-1. Crear un repositorio en GitHub.
-2. Subir todos los archivos de esta carpeta a la raíz del repositorio.
-3. Ir a Settings > Pages.
-4. Seleccionar Deploy from branch > main > root.
-5. Abrir la URL publicada.
+1. Crear repositorio.
+2. Subir todos los archivos a la raíz.
+3. Activar Pages desde Settings > Pages > Deploy from branch > main > root.
 
 ## Nota de producción
 
-Esta versión v01 es un prototipo HTML autónomo. Los formularios guardan datos solo en modo demo.
-Para producción deben conectarse a KoboToolbox, Google Sheets, Apps Script, Drive y sistema de certificados Sambies.
+El laboratorio usa Leaflet y servicios de mapas externos, por lo que requiere internet para visualizar mapas base. Para producción se deben conectar formularios Kobo, Google Sheets, Apps Script, Drive y servicios SIG oficiales o ArcGIS Online.
