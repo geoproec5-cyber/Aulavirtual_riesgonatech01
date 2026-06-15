@@ -1,0 +1,38 @@
+{
+  "proyecto": "Academia Digital - Curso de Gestión de Riesgos Naturales Aplicada a Empresas Privadas",
+  "version": "v06",
+  "aval": "Sambies",
+  "codigo_curso": "AGR",
+  "cohorte_default": "COH-2026-001",
+  "plataforma_url": "PENDIENTE_REEMPLAZAR_CON_URL_GITHUB_PAGES",
+  "apps_script_webapp_url": "PENDIENTE_REEMPLAZAR_CON_URL_APPS_SCRIPT_WEB_APP",
+  "formularios_kobo": {
+    "F0": "https://ee.kobotoolbox.org/x/DugsBkFC",
+    "F1": "https://ee.kobotoolbox.org/x/bflLeLpO",
+    "F2": "https://ee.kobotoolbox.org/x/FTEDkEXR",
+    "F3": "https://ee.kobotoolbox.org/x/zoa0opID",
+    "F4": "https://ee.kobotoolbox.org/x/dLFkuSAS",
+    "F5": "https://ee.kobotoolbox.org/x/1ycaEgfE",
+    "F6": "https://ee.kobotoolbox.org/x/cKcacrO2",
+    "F7": "https://ee.kobotoolbox.org/x/Vr4dleaA",
+    "F8": "https://ee.kobotoolbox.org/x/8aBfARMr",
+    "F9": "https://ee.kobotoolbox.org/x/H5XhVa14"
+  },
+  "hojas_control": [
+    "FORMULARIOS_KOBO",
+    "LOG_EXTRACCIONES_KOBO",
+    "CONSOLIDADO_ACADEMICO",
+    "ESTADO_CERTIFICACION",
+    "BASE_INVESTIGACION_ANONIMIZADA",
+    "DASHBOARD_DOCENTE_DATOS",
+    "CTRL_SOLICITUDES_ACCESO",
+    "CTRL_ACCESOS",
+    "CTRL_MATRICULAS",
+    "CTRL_USUARIOS_PLATAFORMA",
+    "CTRL_COHORTES",
+    "CTRL_BITACORA_ACCESOS",
+    "CTRL_DASHBOARD_ACCESOS",
+    "CTRL_MENSAJES_ACCESO",
+    "CTRL_DASHBOARD_MENSAJES"
+  ]
+}
